@@ -19,9 +19,9 @@
 
 ### Λίστα Υλικών (Hardware)
 * 1 Πλακέτα micro:bit
-* 2 servo-motors full rotation
+* 2 Servo-motors πλήρης περιστροφής ή 2 απλοί servo κινητήρες όπου θα τροποποιηθούν σε πλήρης περιστροφής
 * 1 Αισθητήρας υπέρυθρων (για χρήση ως line follοwer)
 * 3 μέτρα Addressable LED Strip RGB
-* 1 Raspberry Pi
+* 1 Raspberry Pi 3 Model B 
 * 1 Web camera
 * 1 φύλλο plexiglass 1x1,52m
